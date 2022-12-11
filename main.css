@@ -1,0 +1,50 @@
+ul[aria-label="Direct Messages"] > li[aria-posinset="1"] {
+  margin-bottom: 10px;
+  background-color: var(--background-primary);
+  border-radius: 15px;
+}
+
+ul[aria-label="Direct Messages"] > li[aria-posinset="3"] {
+  display: none;
+}
+
+ul[aria-label="Direct Messages"] > li[aria-posinset="2"] {
+  display: none;
+}
+
+ul[aria-label="Direct Messages"] > a[href$="discord.com/snowsgiving"] {
+  display: none;
+}
+
+div[class^="sidebar"] div[class^="searchBar"] {
+  display: none;
+}
+
+h2[class^="privateChannelsHeaderContainer"] {
+  display: none;
+}
+
+section[aria-label="User area"] {
+  border-radius: 20px;
+}
+
+nav[aria-label="Private channels"] {
+  border-radius: 20px;
+}
+
+div[class^="sidebar"] {
+  margin-right: 10px;
+  border-radius: 20px !important;
+}
+
+div[class^="sidebar"] > * {
+  border-radius: 20px !important;
+}
+
+div[class^="chat"] {
+  border-radius: 20px !important;
+}
+
+li[class^="channel"] > div[class^="interactive"] {
+  border-radius: 15px;
+}
