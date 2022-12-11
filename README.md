@@ -1,10 +1,10 @@
 Small Discord reskin I made. Removes unnecessary elements, and rounds some corner to stay consistent with discords other design elements.
 
 Before
-![before]("./images/before.png")
+![before](images/before.png)
 
 After
-![after]("./images/after.png")
+![after](images/after.png)
 
 ## Installation
 1. Install [OpenAsar](https://openasar.dev/).
