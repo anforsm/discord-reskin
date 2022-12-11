@@ -1,4 +1,4 @@
-Small Discord reskin I made. Removes unnecessary elements, and rounds some corner to stay consistent with discords other design elements.
+Small Discord reskin I made. Removes unnecessary elements, and rounds some corners to stay consistent with Discord's other design elements.
 
 Before
 
@@ -11,4 +11,4 @@ After
 ## Installation
 1. Install [OpenAsar](https://openasar.dev/).
 
-2. Copy the contents of the main.css file into the theming section of the OpenAsar settings.
+2. Copy the contents of the [main.css](main.css) file into the theming section of the OpenAsar settings.
