@@ -48,3 +48,7 @@ div[class^="chat"] {
 li[class^="channel"] > div[class^="interactive"] {
   border-radius: 15px;
 }
+
+button[aria-label="Send a gift"], button[aria-label="Open sticker picker"] {
+  display: none;
+}
